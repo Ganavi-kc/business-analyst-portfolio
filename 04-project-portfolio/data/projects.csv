@@ -1,0 +1,86 @@
+project_id,workstream,status,budget_cad,actual_cad,milestone_delay_days,open_high_risks
+PJ000,Digital,At Risk,346679,366840,0,1
+PJ001,Data,At Risk,271673,277633,0,1
+PJ002,Digital,At Risk,64775,123098,15,1
+PJ003,Digital,At Risk,245275,190825,2,1
+PJ004,Digital,On Track,200363,368331,5,0
+PJ005,Infrastructure,At Risk,225107,430287,9,1
+PJ006,Infrastructure,Delayed,62142,453689,0,3
+PJ007,Digital,At Risk,170114,204054,15,0
+PJ008,Infrastructure,Delayed,449577,246683,0,2
+PJ009,Infrastructure,Delayed,58775,256478,15,1
+PJ010,Data,On Track,414899,59468,0,1
+PJ011,Data,At Risk,252187,85677,0,1
+PJ012,Infrastructure,On Track,279767,54670,5,0
+PJ013,Infrastructure,On Track,422741,355769,0,2
+PJ014,Data,On Track,129316,132591,5,1
+PJ015,Operations,On Track,443606,339631,15,1
+PJ016,Operations,On Track,153478,198245,5,2
+PJ017,Digital,At Risk,183126,380496,0,2
+PJ018,Digital,On Track,224312,85255,5,1
+PJ019,Infrastructure,On Track,286630,176458,0,3
+PJ020,Operations,On Track,172339,124095,0,1
+PJ021,Infrastructure,On Track,365173,224683,0,0
+PJ022,Data,At Risk,48738,279462,0,0
+PJ023,Data,On Track,313307,108228,0,0
+PJ024,Operations,On Track,309064,325143,0,1
+PJ025,Data,Delayed,259166,454559,9,0
+PJ026,Digital,At Risk,291505,53829,2,1
+PJ027,Data,At Risk,346550,72443,0,0
+PJ028,Digital,At Risk,410767,449213,2,0
+PJ029,Digital,On Track,129536,317320,5,0
+PJ030,Operations,At Risk,235510,435044,9,2
+PJ031,Infrastructure,On Track,270497,341786,0,3
+PJ032,Operations,On Track,181330,347035,0,1
+PJ033,Data,On Track,439282,103615,15,0
+PJ034,Data,At Risk,249722,257646,5,0
+PJ035,Data,On Track,282986,193915,15,0
+PJ036,Data,On Track,119824,397627,0,1
+PJ037,Data,On Track,210474,53760,0,2
+PJ038,Digital,At Risk,296471,42902,0,0
+PJ039,Data,On Track,215621,277124,0,1
+PJ040,Data,On Track,355713,457142,9,3
+PJ041,Operations,On Track,96056,467798,9,2
+PJ042,Infrastructure,At Risk,102919,293191,0,0
+PJ043,Operations,On Track,178985,221999,5,0
+PJ044,Digital,Delayed,170537,153721,0,2
+PJ045,Digital,On Track,374335,465653,5,2
+PJ046,Infrastructure,On Track,395798,114706,0,0
+PJ047,Data,On Track,233502,89908,2,3
+PJ048,Infrastructure,On Track,247268,256128,9,3
+PJ049,Operations,On Track,160691,205717,0,2
+PJ050,Data,On Track,258053,250675,0,1
+PJ051,Digital,Delayed,329652,427354,5,2
+PJ052,Infrastructure,On Track,336187,152367,15,0
+PJ053,Digital,On Track,437277,416362,2,0
+PJ054,Data,On Track,276936,127116,15,1
+PJ055,Digital,On Track,179530,175762,0,0
+PJ056,Infrastructure,On Track,68527,36937,9,2
+PJ057,Data,On Track,322044,330195,15,0
+PJ058,Data,On Track,369624,408430,0,1
+PJ059,Digital,On Track,266486,420479,0,1
+PJ060,Operations,Delayed,418362,107845,5,0
+PJ061,Digital,At Risk,169933,368591,15,1
+PJ062,Operations,Delayed,61843,96481,0,1
+PJ063,Digital,On Track,299590,308387,5,0
+PJ064,Operations,At Risk,89712,340543,15,0
+PJ065,Operations,On Track,74487,101370,0,1
+PJ066,Digital,On Track,327809,83073,2,0
+PJ067,Digital,At Risk,218103,66756,0,0
+PJ068,Operations,On Track,287834,343136,0,1
+PJ069,Data,On Track,346562,302360,2,2
+PJ070,Operations,At Risk,196831,86916,0,1
+PJ071,Operations,At Risk,290542,252619,0,2
+PJ072,Digital,On Track,261091,381175,9,1
+PJ073,Operations,On Track,277808,138545,0,3
+PJ074,Digital,On Track,328368,298452,15,2
+PJ075,Operations,Delayed,195956,162354,0,2
+PJ076,Digital,On Track,246835,148540,2,1
+PJ077,Digital,On Track,282369,205557,9,0
+PJ078,Digital,On Track,97477,188213,2,0
+PJ079,Infrastructure,Delayed,126749,250551,0,0
+PJ080,Digital,At Risk,76668,124352,9,2
+PJ081,Data,On Track,121189,204762,0,1
+PJ082,Digital,Delayed,219932,305736,9,0
+PJ083,Data,On Track,424424,203471,5,2
+PJ084,Data,Delayed,418382,320534,9,2
