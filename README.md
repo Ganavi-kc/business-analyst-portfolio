@@ -1,4 +1,4 @@
-# Business Analyst Portfolio | Operations • Banking • Analytics
+# Project Analyst Portfolio | Operations • Banking • Analytics
 
 > Four practical, recruiter-friendly case studies built with Python, pandas, Streamlit, and synthetic datasets. **Not real client or employer work.**
 
